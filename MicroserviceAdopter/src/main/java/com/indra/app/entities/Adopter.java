@@ -20,7 +20,7 @@ public class Adopter {
 	@Column(length=50, nullable = false)
 	private String lastName;
 	
-	@Column(length=50, unique = true)
+	@Column(length=100, unique = true)
 	private String email;
 	
 	@Column(length=9, nullable = false)
