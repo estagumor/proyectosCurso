@@ -1,0 +1,13 @@
+#Variables de ambiente
+#No es recomendarle subirlo al repositorio
+CONFIGSERVER_IP=configserver
+CONFIGSERVER_PORT=7777
+
+EUREKA_IP=eurekaserver
+EUREKA_PORT=9999
+
+DB_IP=mysqlserver
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=netec123
+DB_NAME=appdb
